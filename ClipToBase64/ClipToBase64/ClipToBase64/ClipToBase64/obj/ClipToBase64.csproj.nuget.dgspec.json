@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Working\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64.csproj": {}
+  },
+  "projects": {
+    "D:\\Working\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Working\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64.csproj",
+        "projectName": "ClipToBase64",
+        "projectPath": "D:\\Working\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64.csproj",
+        "packagesPath": "C:\\Users\\teddy\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\teddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MouseKeyHook": {
+              "target": "Package",
+              "version": "[5.7.1, )"
+            },
+            "NHotkey": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NHotkey.Wpf": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClipToBase64/1.0.0": {
+        "dependencies": {
+          "MouseKeyHook": "5.7.1",
+          "NHotkey": "2.1.1",
+          "NHotkey.Wpf": "2.1.1"
+        },
+        "runtime": {
+          "ClipToBase64.dll": {}
+        }
+      },
+      "MouseKeyHook/5.7.1": {
+        "runtime": {
+          "lib/net7.0-windows7.0/Gma.System.MouseKeyHook.dll": {
+            "assemblyVersion": "5.7.1.0",
+            "fileVersion": "5.7.1.0"
+          }
+        }
+      },
+      "NHotkey/2.1.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/NHotkey.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "NHotkey.Wpf/2.1.1": {
+        "dependencies": {
+          "NHotkey": "2.1.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/NHotkey.Wpf.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClipToBase64/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MouseKeyHook/5.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c0VhB6cbcOpMOcoCQmvPMVqxaH76S4IPHwpbCIY7XKUNimdj9+81rX+Evnu5O53xYgUvdD7g0qmlVeZP2wGCnA==",
+      "path": "mousekeyhook/5.7.1",
+      "hashPath": "mousekeyhook.5.7.1.nupkg.sha512"
+    },
+    "NHotkey/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LLjgy7CUEgZN6zyEjJmpNUrz5jkeKahd34j5Ys2pImjilRPlZFWRRr8yiqywWsRe8p1WfVsLcvdutjiwPBHEpg==",
+      "path": "nhotkey/2.1.1",
+      "hashPath": "nhotkey.2.1.1.nupkg.sha512"
+    },
+    "NHotkey.Wpf/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3jbacG/62j0/BsviuVl0IIDa73pbzoKjcdK6o6umKgImB7vwMWm7+eh7Dorb8ebrJ8A7HE/XMwgVMXgmSFr+IQ==",
+      "path": "nhotkey.wpf/2.1.1",
+      "hashPath": "nhotkey.wpf.2.1.1.nupkg.sha512"
+    }
+  }
+}

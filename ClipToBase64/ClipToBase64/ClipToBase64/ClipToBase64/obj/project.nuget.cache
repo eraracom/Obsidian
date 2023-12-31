@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hv4owHxn7NXsl+4b//i6+XQx8kmr1MWeuoJqR7sGOP1hTQD3ddegwVYV65qKicUx3xecgnaY6+nikbqU1UKRdw==",
+  "success": true,
+  "projectFilePath": "D:\\Working\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64\\ClipToBase64.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teddy\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512",
+    "C:\\Users\\teddy\\.nuget\\packages\\nhotkey\\2.1.1\\nhotkey.2.1.1.nupkg.sha512",
+    "C:\\Users\\teddy\\.nuget\\packages\\nhotkey.wpf\\2.1.1\\nhotkey.wpf.2.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
